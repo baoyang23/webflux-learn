@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
+ *  启动类
  * @Author: Mu_Yi
  * @Date: 2019/9/17 23:47
  * @Version 1.0
