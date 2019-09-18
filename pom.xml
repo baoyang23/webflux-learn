@@ -5,6 +5,9 @@
     <modules>
         <module>webflux-hello</module>
         <module>webflux-crud</module>
+        <module>webflux-mongodb</module>
+        <module>webflux-thymeleaf</module>
+        <module>webflux-mongo-thymeleaf</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
