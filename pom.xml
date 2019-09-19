@@ -8,6 +8,8 @@
         <module>webflux-mongodb</module>
         <module>webflux-thymeleaf</module>
         <module>webflux-mongo-thymeleaf</module>
+        <module>webflux-redis</module>
+        <module>webflux-system</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
